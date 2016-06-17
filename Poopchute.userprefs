@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Sweepyheads\Assets\Scripts\MeshTool.cs">
+    <Files>
+      <File FileName="..\Sweepyheads\Assets\Scripts\MeshTool.cs" Line="22" Column="12" />
+      <File FileName="..\Sweepyheads\Assets\Scripts\CamerMovement.cs" Line="46" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
